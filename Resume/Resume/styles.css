@@ -1,0 +1,154 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+}
+   .top-container {
+        background-color: #e4f9f5;
+}
+.title-text{
+    display: block;
+    text-align: center;
+    padding: 100px;
+    margin: 0%;
+   
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 4.625rem;
+    margin: 50px auto 0 auto;
+    font-family:"Sacramento", cursive;
+}
+h1{
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: "Merriweather", serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 150px
+}
+.pro{
+    text-decoration: underline;
+}
+.mountain{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.middle-container{
+    margin: 100px;
+}
+.profile{
+    display: block;
+}
+.photo{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    border-radius: 50%;
+    position: static;
+    height: 150px;
+    width: 150px;
+    }
+p{ 
+     display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+    h3 {
+        color:#11999e;
+        font-family: "Merriweather", serif;
+        display: block;
+        font-size: 1.17em;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+    }
+    h2 {
+        color: #66bfbf;
+        font-family: "Merriweather", serif;
+        font-size: 2.5rem;
+        font-weight: normal;
+        padding-bottom: 10px;
+    }
+    .parent {
+        display: grid;
+        grid-template-columns: 0.5fr 1fr;
+        grid-template-rows: repeat(1, 1fr);
+        width: 50%;
+        margin: 100px auto 0 auto;
+        text-align: left;
+        row-gap: 2rem;
+    }
+    .skills{
+        margin: 200px;
+        font-family: "Merriweather", serif;
+    }
+    .contact-me{
+        margin: 200px;
+    }
+    .btn {
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: "Montserrat", sans-serif;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+    }
+    .bottom-container {
+        background-color: #66bfbf;
+        padding: 50px 0 20px;
+    }
+   a {
+        color: #11999e;
+        font-family: "Montserrat", sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+    }
+    
+    
+  
+  
+     
+   
+
+
+
+    
+
